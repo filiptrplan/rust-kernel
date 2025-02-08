@@ -7,10 +7,10 @@ This is a hobby project following the posts on [this wonderful website](https://
 Make sure you have `qemu` and `bootimage` installed. To install `bootimage` run:
 
 ```bash
-cargo install bootimage
+cargo install bootimage@0.9.0
 ```
 
-To build the image and run it just use the `run.sh` script.
+To build the image and run it use `cargo run`.
 
 ## Errors
 
